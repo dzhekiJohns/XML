@@ -14,5 +14,5 @@
     <actual_result>it is impossible to perform any actions with the product, it is possible to return only to the previous page</actual_result>
     <severity>high</severity>
     <priority>major</priority>
-    <assigned_to>/</assigned_to>
+    <assigned_to>/</assigned_to> 
 </bug_report_form>
