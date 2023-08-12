@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bug_report_form>
+    <ID_number>#18953</ID_number>
+    <name>When I select a product from the main menu, nothing happens</name>
+    <summary>There is no option to select a product. Using the mouse, it is not possible to select the order field</summary>
+    <screenshot />
+    <author>Eugene Kirilyuk</author>
+    <URL>www.amazon.com/goods/basket</URL>
+    <platform>Win</platform>
+    <OS>Windows 11</OS>
+    <browser>Chrome 115.0.5790.171 (oficial), (64 bit)</browser>
+    <steps_to_reproduce>main menu > electrical engineering > notebook > lenovo > lenovo 17b3a7 > add to basket > basket</steps_to_reproduce>
+    <expected_result>the product has been added to the cart, you can pay for it, delete it, increase the number of products</expected_result>
+    <actual_result>it is impossible to perform any actions with the product, it is possible to return only to the previous page</actual_result>
+    <severity>high</severity>
+    <priority>major</priority>
+    <assigned_to>/</assigned_to>
+</bug_report_form>
